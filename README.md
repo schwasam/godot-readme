@@ -28,6 +28,14 @@
 
 [Github](https://github.com/Zylann/godot_heightmap_plugin)
 
+### TerraBrush - 3D Terrain Generation
+
+[Github](https://github.com/spimort/TerraBrush)
+
+### Gaea - Procedural Generation
+
+[Github](https://github.com/BenjaTK/Gaea)
+
 ### Qodot - Importing Quake Maps
 
 [Github](https://github.com/QodotPlugin/qodot-plugin)

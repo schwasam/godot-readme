@@ -40,7 +40,7 @@
 - Epic Games Store: https://store.epicgames.com (also some free assets)
 - Synty Store: https://syntystore.com (also some free assets)
 
-## How-Tos
+## How-To
 
 ### Structuring a Game
 
@@ -52,6 +52,6 @@
 
 [Gist](https://gist.github.com/sjvnnings/6b54a962f4c72758b182c49f655ed4e8)
 
-### Screen Shake
+### Screen Shake / Camera Shake
 
 [Gist](https://gist.github.com/sjvnnings/81bc572e4614832a442ee9a81e8ae24f)

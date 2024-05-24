@@ -2,55 +2,21 @@
 
 ## Addons / Plugins
 
-### Developer Console
-
-[![Godot 4 C# - Ultimate Developer Console](https://img.youtube.com/vi/HIMsfsbPoUc/0.jpg)](https://www.youtube.com/watch?v=HIMsfsbPoUc)
-
-[Github 1](https://github.com/hamsterbyte/Godot-.NET-4x-Developer-Console)
-
-[Github 2](https://github.com/hamsterbyte/Developer-Console-for-AssetLib)
-
-### Color Palettes
-
-[![Godot 4 C# Addon You Didn't Know You Needed - Color Palettes](https://img.youtube.com/vi/5QqojvU2DZw/0.jpg)](https://www.youtube.com/watch?v=5QqojvU2DZw)
-
-[Github](https://github.com/hamsterbyte/Godot-4x.NET-Color-Palettes)
-
-### Dialogic - Dialogue System
-
-[Github](https://github.com/dialogic-godot/dialogic)
-
-### SmartShape2D - 2D Terrain Generation
-
-[Github](https://github.com/SirRamEsq/SmartShape2D)
-
-### HeightMap - 3D Terrain Generation
-
-[Github](https://github.com/Zylann/godot_heightmap_plugin)
-
-### TerraBrush - 3D Terrain Generation
-
-[Github](https://github.com/spimort/TerraBrush)
-
-### Gaea - Procedural Generation
-
-[Github](https://github.com/BenjaTK/Gaea)
-
-### Qodot - Importing Quake Maps
-
-[Github](https://github.com/QodotPlugin/qodot-plugin)
-
-### Anima - UI Animations
-
-[Github](https://github.com/ceceppa/anima)
-
-### godot-sqlite - SQLite Wrapper
-
-[Github](https://github.com/2shady4u/godot-sqlite)
-
-### Godot Virtual Joystick
-
-[Github](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot)
+| Name  | Type  | Link  |
+|---|---|---|
+| Anima | UI Animations | https://github.com/ceceppa/anima
+| Color Palettes | Color Palette | [![Godot 4 C# Addon You Didn't Know You Needed - Color Palettes](https://img.youtube.com/vi/5QqojvU2DZw/0.jpg)](https://www.youtube.com/watch?v=5QqojvU2DZw)<br>https://github.com/hamsterbyte/Godot-4x.NET-Color-Palettes
+| Developer Console | Developer Console | [![Godot 4 C# - Ultimate Developer Console](https://img.youtube.com/vi/HIMsfsbPoUc/0.jpg)](https://www.youtube.com/watch?v=HIMsfsbPoUc)<br>https://github.com/hamsterbyte/Godot-.NET-4x-Developer-Console<br>https://github.com/hamsterbyte/Developer-Console-for-AssetLib
+| Dialogic | Dialogue System | https://github.com/dialogic-godot/dialogic
+| Gaea | Procedural Generation | https://github.com/BenjaTK/Gaea
+| Godot SQLite | SQLite Wrapper | https://github.com/2shady4u/godot-sqlite
+| Godot Virtual Joystick | Input / Joystick | https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
+| HeightMap | 3D Terrain Generation | https://github.com/Zylann/godot_heightmap_plugin
+| LimboAI | AI / Behavior Tree / State Machine | https://github.com/limbonaut/limboai<br>https://github.com/limbonaut/limboai-extra
+| Qodot | Importer for Quake Maps | https://github.com/QodotPlugin/qodot-plugin
+| SmartShape2D | 2D Terrain Generation | https://github.com/SirRamEsq/SmartShape2D
+| TerraBrush | 3D Terrain Generation | https://github.com/spimort/TerraBrush
+| Waterways | 3D Water Generation | https://github.com/Arnklit/Waterways
 
 ## Assets
 
